@@ -1,0 +1,16 @@
+{
+  "name": "nopassword",
+  "version": "1.0.0",
+  "description": "Client-side PDF password removal tool",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "type": "module",
+  "dependencies": {
+    "@libpdf/core": "^0.3.4",
+    "vite": "^8.0.3"
+  }
+}
